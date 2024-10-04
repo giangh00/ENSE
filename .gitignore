@@ -49,3 +49,4 @@ lerna-debug.log*
 # JetBrains Rider
 *.sln.iml
 
+backend/
